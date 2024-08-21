@@ -1,5 +1,6 @@
 # CodSoft_Project
-Number Game Using a Java Language
+Number Game Using a Java Language.
+
 GradeCalculator Using a Java Language
 
 # Screenshot GuessingNumber
