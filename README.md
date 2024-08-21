@@ -1,5 +1,5 @@
 # CodSoft_Project
-
+Number Game Using a Java Language
 # Screenshot
 
 ![Screenshot 1 1](https://github.com/user-attachments/assets/98098ef4-a719-48da-b872-ac3d15d20ee3)
