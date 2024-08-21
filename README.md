@@ -1,6 +1,6 @@
 # CodSoft_Project
 Number Game Using a Java Language
-# Screenshot
+# Screenshot GuessingNumber
 
 ![Screenshot 1 1](https://github.com/user-attachments/assets/98098ef4-a719-48da-b872-ac3d15d20ee3)
 ![Screenshot 1 2](https://github.com/user-attachments/assets/85c6939f-3ce6-4129-a4f2-7c774535eeaf)
